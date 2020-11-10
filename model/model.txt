@@ -1,0 +1,11 @@
+********Models********
+Resnet18_SideView.mat
+Resnet18_TopView.mat
+TracePredNet_Pred1.mat
+
+Available at (zenodo)
+    https://zenodo.org/record/4261622#.X6fiYtN1SvY
+or (biadu disk)
+    Interlinkage: https://pan.baidu.com/s/1sH3yO0Rpax8rzO0pwO4Fhg
+    Enter code: MOTM
+
