@@ -21,7 +21,7 @@ MOT-Mice was developed and tested on MATLAB R2019b using an Nvidia GeForce GTX 1
 #### Camera calibration
 Processing the files in the folder of ***CameraCalibration***. <br>
 Run ***CameraCalibration_V1.m*** to achieve camera calibration. <br>
-<img src="imgs/CameraCalibration-2.png" height="150px" width="auto"/> 
+<img src="imgs/CameraCalibration.png" height="150px" width="auto"/> 
 
 #### Using Mouse detection (MOT-OD) and identity pairing (MOT-IP) modules to generate trackltes
 Processing the files in the folder of ***Videos of mouse group***. <br>
