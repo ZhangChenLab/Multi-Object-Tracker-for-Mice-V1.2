@@ -32,4 +32,4 @@ Run ***Step1_MOT_ObjectDetect_IdPairing.m*** to detect all mouse individuals and
 #### Using Trace prediction (MOT-TP) and MOT-Match modules for tracklets fusion
 First, run ***Step2_MOT_SingleCameraFusion.m*** to fuse tracklets for each camera.  <br>
 Second, run ***Step3_MOT_MultiCameraFusion.m*** to fuse tracklets using multicamera.  <br>
-<img src="imgs/trajectories-1.png" width="600px" height="auto"/>    <br>
+<img src="imgs/trajectories.png" width="600px" height="auto"/>    <br>
